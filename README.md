@@ -14,3 +14,5 @@ Learning Objectives [# Spring-23-STAT341-Independent-Study 3 Credits Probability
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
 
 [Github:](https://github.com/spawar2/STAT302)
+
+Spring 23 STAT341-Independent Study (1 student)
