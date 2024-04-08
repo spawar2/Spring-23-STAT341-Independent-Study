@@ -1,5 +1,5 @@
 Learning Objectives [# Spring-23-STAT341-Independent-Study 3 Credits Probability & Statistics](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat341-2)
-
+Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, ANOVA, T-test, correlation, chi-Square, regression, etc.)
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 
 [Data analysis:](https://youtu.be/WIvehDeVRak)
