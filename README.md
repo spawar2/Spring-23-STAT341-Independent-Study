@@ -17,4 +17,4 @@ Chi Square: https://youtu.be/dgehxC9tJVc
 
 [Github:](https://github.com/spawar2/STAT302)
 
-Spring 23 STAT341-Independent Study (1 student)
+Spring 23 STAT341-Independent Study (1 student) **Undergraduate Class & Lab
