@@ -19,4 +19,4 @@ Chi Square: https://youtu.be/dgehxC9tJVc
 
 Spring 23 STAT341-Independent Study (1 student) **Undergraduate Class & Lab https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/
-Claflin University, Orangeburg, South Carolina, USA
+[Claflin University, Orangeburg, South Carolina, USA](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
