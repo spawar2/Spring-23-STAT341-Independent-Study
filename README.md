@@ -1,15 +1,13 @@
 # Data-Science-Spring2025
 CSCI 455 Learning Objectives [# Data-Science-Spring2025 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-data-science-4-credit-sprin-1)
-Data Science (Data wrangling, visualization, Machine Learning QDA, LDA, ROC, Decision Trees, Regularization, Text Analysis Feature Engineering, Classification and Model Evaluation, Regression: Basics and Prediction, Evaluation and Interpretation, Clustering, etc.). Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types (qualitative, quantitative), distribution properties, discrete & continuous types, R functions, Hypothesis testing using critical value (Probability, F Statistics, Coefficient) using ANOVA, data wrangling, Post Hoc Test, T-test, correlation, chi-Square test, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), Analysis of Variance (ANOVA). Data wrangling and handling. Custom functions in R. Data Visualization (BoxPlots, Scatter Plots).
+Data Science (Data wrangling, visualization, Machine Learning QDA, LDA, ROC, Decision Trees, Regularization, Text Analysis Feature Engineering, Classification and Model Evaluation, Regression: Basics and Prediction, Evaluation and Interpretation, Clustering, etc.). Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types (qualitative, quantitative), distribution properties, discrete & continuous types, R functions, Hypothesis testing using critical value (Probability, F Statistics, Coefficient) using ANOVA, data wrangling, Post Hoc Test, T-test, correlation, chi-Square, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square  test), Hypothesis testing using  critical value (Probability, F Statistics, Coefficient) using Analysis of Variance (ANOVA). Data wrangling and handling. Custom functions in R. Data Visualization (BoxPlots, Scatter Plots).
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 Date created/updated: December, 9, 2024.
 Data Science:
 [R: ggpubr, tidyverse, datarium, dplyr].
 [Machine Learning:](https://youtu.be/Pju8ecWWRAw)
 ![download](https://github.com/user-attachments/assets/8da63d9a-6382-41bb-b57f-e6dcbe82ec05)
-https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
-https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [Tree Based Models:](https://youtu.be/FOtl6qM_nX0)
 https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.R
 
@@ -21,14 +19,16 @@ https://github.com/spawar2/STAT302/blob/main/Mar-9.Rd
 Data Science (4 credit) Spring 2023 (10 students) **Undergraduate Class & Lab: https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6), United States of America (USA).
+https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
+https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 First-Program.R, Program-Aug26.R: Data types: Integer, floats, string, characters, Data structures: List, vectors, data frames, matrix.
 Nov-2.R: Chi-square analysis in R.
 Sep-14.R: Analysis of Variance (ANOVA) test and ggscatter plot.
 correlation-test.r, Sep-2.R: Correlation test analysis and scatter plotting.
 Sep-7.R: Correlation test analysis and scatter plotting.
 Sep23.R: T-test analysis and line plot.
-selected function(chisq.test, pData, rep, colnames, factor, glimpse(df), eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table).
+selected function(chisq.test, pData, rep, colnames, glimpse(df), factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table).
 
 https://www.java.com/
 https://www.php.net/
